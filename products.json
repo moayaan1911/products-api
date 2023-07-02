@@ -1,0 +1,114 @@
+[
+  {
+    "name": "iPhone 12",
+    "price": 999,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S21",
+    "price": 899,
+    "company": "samsung"
+  },
+  {
+    "name": "XPS 13",
+    "price": 1299,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi Note 10",
+    "price": 249,
+    "company": "mi",
+    "rating": 4.8
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "price": 129,
+    "company": "amazon",
+    "rating": 4.6
+  },
+  {
+    "name": "MacBook Pro",
+    "price": 1999,
+    "company": "apple",
+    "featured": true
+  },
+  {
+    "name": "Galaxy Watch 4",
+    "price": 299,
+    "company": "samsung",
+    "rating": 4.9
+  },
+  {
+    "name": "Inspiron 15",
+    "price": 699,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Smart Band 6",
+    "price": 49,
+    "company": "mi",
+    "rating": 4.7
+  },
+  {
+    "name": "Echo Dot",
+    "price": 39,
+    "company": "amazon",
+    "rating": 4.3
+  },
+  {
+    "name": "iPhone SE",
+    "price": 399,
+    "company": "apple",
+    "featured": true
+  },
+  {
+    "name": "Galaxy Tab S7",
+    "price": 649,
+    "company": "samsung"
+  },
+  {
+    "name": "Alienware Aurora R12",
+    "price": 1799,
+    "company": "dell",
+    "rating": 4.8
+  },
+  {
+    "name": "Redmi 9",
+    "price": 149,
+    "company": "mi",
+    "rating": 4.5
+  },
+  {
+    "name": "Fire TV Stick 4K",
+    "price": 49,
+    "company": "amazon"
+  },
+  {
+    "name": "MacBook Air",
+    "price": 999,
+    "company": "apple",
+    "featured": true
+  },
+  {
+    "name": "Galaxy Buds Pro",
+    "price": 199,
+    "company": "samsung",
+    "rating": 4.7
+  },
+  {
+    "name": "XPS 15",
+    "price": 1699,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Watch Lite",
+    "price": 59,
+    "company": "mi",
+    "rating": 4.4
+  },
+  {
+    "name": "Kindle Oasis",
+    "price": 249,
+    "company": "amazon"
+  }
+]
